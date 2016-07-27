@@ -1,0 +1,105 @@
+/* line 1, page2.scss */
+.center2 {
+  position: relative; }
+
+/* line 2, page2.scss */
+.box {
+  background: url(img/main_bg.png);
+  width: 277px;
+  height: 375px;
+  background-size: 100% 100%;
+  position: absolute;
+  top: 55px;
+  left: 20px; }
+
+/* line 3, page2.scss */
+.li_pic1 {
+  position: absolute;
+  width: 90px;
+  height: 75px;
+  left: -22px;
+  bottom: -25px; }
+
+/* line 4, page2.scss */
+h2 {
+  color: #c15640;
+  margin-top: 30px;
+  font-size: 20px;
+  margin-left: 63px; }
+
+/* line 5, page2.scss */
+.gender {
+  width: 100%;
+  height: 81px;
+  margin-top: 34px;
+  box-sizing: border-box; }
+
+/* line 6, page2.scss */
+.ge_left {
+  width: 50%;
+  height: 81px;
+  border-right: 1px solid #000;
+  float: left; }
+
+/* line 7, page2.scss */
+.ge_right {
+  width: 49%;
+  height: 81px;
+  float: left; }
+
+/* line 8, page2.scss */
+.man {
+  width: 57px;
+  height: 81px;
+  margin-left: 50px; }
+
+/* line 9, page2.scss */
+.women {
+  width: 57px;
+  height: 81px;
+  margin-left: 30px; }
+
+/* line 10, page2.scss */
+.man_p {
+  font-size: 14px;
+  margin-left: 52px;
+  padding-top: 20px; }
+
+/* line 11, page2.scss */
+.women_p {
+  font-size: 14px;
+  margin-left: 35px;
+  padding-top: 20px; }
+
+/* line 12, page2.scss */
+.ge_circle1 {
+  width: 17px;
+  height: 17px;
+  margin-top: 9px;
+  margin-left: 68px; }
+
+/* line 13, page2.scss */
+.ge_circle2 {
+  width: 17px;
+  height: 17px;
+  margin-top: 9px;
+  margin-left: 54px; }
+
+/* line 14, page2.scss */
+.button2 {
+  background: url(img/btn_bg.png);
+  background-size: 100% 100%;
+  width: 110px;
+  height: 40px;
+  text-align: center;
+  line-height: 40px;
+  font-weight: bold;
+  margin-top: 129px;
+  margin-left: 80px; }
+
+/* line 16, page2.scss */
+a {
+  color: #bd0b05;
+  font-size: 23px; }
+
+/*# sourceMappingURL=page2.css.map */
